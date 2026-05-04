@@ -52,7 +52,7 @@ git --version
 > **Screenshot 1:** Take a screenshot of your terminal showing both version
 > checks and insert it here.
 >
-> `[insert screenshot]`
+> ![image alt](https://github.com/amendabbech/DBMS_03/blob/51ba81a38f105750e6ec683692decbff7a21d263/1.png)
 
 ---
 
@@ -294,7 +294,7 @@ sqlite3 library.db < schema.sql
 > **Screenshot 2:** Take a screenshot of the terminal showing the `.tables`
 > output and insert it here.
 >
-> `[insert screenshot]`
+> ![image alt](https://github.com/amendabbech/DBMS_03/blob/51ba81a38f105750e6ec683692decbff7a21d263/2.png)
 
 ### Task 2c – Commit
 
@@ -752,7 +752,7 @@ If you have not used `scp` before, work through this exercise first:
 > **Screenshot 3:** Take a screenshot of `schema.svg` showing all six entities
 > and all five relationships, and insert it here.
 >
-> `[insert screenshot]`
+>  ![image alt](https://github.com/amendabbech/DBMS_03/blob/51ba81a38f105750e6ec683692decbff7a21d263/3.png)
 
 Add `schema.svg` to `.gitignore` (it is generated, not authored):
 
@@ -827,7 +827,7 @@ SQL?
 > **Screenshot 4:** Take a screenshot of your terminal showing the output of
 > the query from Task 4d (the join across four relations), and insert it here.
 >
-> `[insert screenshot]`
+> ![image alt](https://github.com/amendabbech/DBMS_03/blob/51ba81a38f105750e6ec683692decbff7a21d263/4.png)
 
 ---
 
